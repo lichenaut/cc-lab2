@@ -1,0 +1,33 @@
+Execution Data
+===================
+Processes, Strips, Result
+1, 8, Approximate integral: 1.32478 - time taken: 3.3105e-05 seconds.
+1, 64, Approximate integral: 1.63949 - time taken: 3.5431e-05 seconds.
+1, 512, Approximate integral: 1.67754 - time taken: 5.7752e-05 seconds.
+1, 4096, Approximate integral: 1.68227 - time taken: 0.000222212 seconds.
+1, 32768, Approximate integral: 1.68286 - time taken: 0.000772804 seconds.
+1, 262114, Approximate integral: 1.68293 - time taken: 0.0115792 seconds.
+2, 8, Approximate integral: 1.10959 - time taken: 8.279e-06 seconds.
+2, 64, Approximate integral: 1.60873 - time taken: 2.6213e-05 seconds.
+2, 512, Approximate integral: 1.67364 - time taken: 1.7476e-05 seconds.
+2, 4096, Approximate integral: 1.68178 - time taken: 3.0137e-05 seconds.
+2, 32768, Approximate integral: 1.6828 - time taken: 0.000175567 seconds.
+2, 262114, Approximate integral: 1.68292 - time taken: 0.00130884 seconds.
+4, 8, Approximate integral: 0.7319 - time taken: 2.2647e-05 seconds.
+4, 64, Approximate integral: 1.55476 - time taken: 2.7253e-05 seconds.
+4, 512, Approximate integral: 1.6668 - time taken: 3.8656e-05 seconds.
+4, 4096, Approximate integral: 1.68092 - time taken: 0.000138843 seconds.
+4, 32768, Approximate integral: 1.68269 - time taken: 0.00041685 seconds.
+4, 262114, Approximate integral: 1.68291 - time taken: 0.00239917 seconds.
+8, 8, Approximate integral: 0.7319 - time taken: 1.2297e-05 seconds.
+8, 64, Approximate integral: 1.45015 - time taken: 1.4604e-05 seconds.
+8, 512, Approximate integral: 1.65354 - time taken: 1.9261e-05 seconds.
+8, 4096, Approximate integral: 1.67926 - time taken: 2.1664e-05 seconds.
+8, 32768, Approximate integral: 1.68248 - time taken: 9.155e-05 seconds.
+8, 262114, Approximate integral: 1.68288 - time taken: 0.00050114 seconds.
+16, 8, Approximate integral: 1.32478 - time taken: 1.51e-07 seconds.
+16, 64, Approximate integral: 1.24258 - time taken: 1.7959e-05 seconds.
+16, 512, Approximate integral: 1.62723 - time taken: 1.152e-05 seconds.
+16, 4096, Approximate integral: 1.67597 - time taken: 1.5306e-05 seconds.
+16, 32768, Approximate integral: 1.68207 - time taken: 4.7417e-05 seconds.
+16, 262114, Approximate integral: 1.68283 - time taken: 0.000407032 seconds.
